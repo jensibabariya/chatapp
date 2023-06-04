@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225377781725",
+    "project_id": "chat-ede91",
+    "storage_bucket": "chat-ede91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225377781725:android:dfe9727d92ac32b4e15834",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbi-zM2i3zQsoWfF7ahJ36r6ttv7LbSpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
